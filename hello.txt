@@ -6,5 +6,3 @@ hello git!
 change
 change
 wow
-wow
-wow
