@@ -6,3 +6,6 @@ hello git!
 change hot-fix test
 change master test
 wow
+remote change
+remote change
+remote change
