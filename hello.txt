@@ -3,6 +3,6 @@ hello git!
 hello git!
 hello git!
 hello git!
-change
+change hot-fix test
 change master test
 wow
